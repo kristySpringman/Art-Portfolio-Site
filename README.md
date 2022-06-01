@@ -1,5 +1,5 @@
 
-![Rebecca Kasten's Art Portfolio Site Image](/public/RKGitHub.png)
+![Rebecca Kasten's Art Portfolio Site Image](/imgs/RKGitHub.png)
 
 #  Rebecca Kasten's Art Portfolio Site
 My client requested me to create an art portfolio site so she could present her work to future employers. Creating this website helped me understand the expectations of a client/developer relationship, and I was able to gain valuable experience working independently.
