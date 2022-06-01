@@ -8,6 +8,7 @@ I had the luxury of designing my client’s website, and this freedom allowed me
 
 I impressed my client by completing the website in half the time she expected and building features that she thought were impossible. Building something I’ve never built before was challenging, but I enjoyed pushing myself and using this experience as a learning opportunity.
 
+Deployed site can be found at https://rebeccakastenportfolio.netlify.app/
 
 ## Tech used:
 * HTML５
